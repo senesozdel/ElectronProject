@@ -1,0 +1,14 @@
+{
+  "name": "electronproject",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Salih Enes ÖZDEL",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.0.2"
+  }
+}
